@@ -1,0 +1,33 @@
+body{
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: rgb(7, 7, 70);
+    color: white;
+}
+p{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: x-large;
+}
+span{
+    font-size: x-large;
+    
+}
+h3{
+    font-size: x-large;
+    color: rgb(88, 98, 85);
+}
+h2{
+    color: greenyellow;
+}
+li{
+    font-size: larger;
+    color: rgb(221, 171, 77);
+}
+#n{
+   
+    padding-left: 50%;
+}
+img{
+    background-color: rgb(81, 64, 64);
+}
